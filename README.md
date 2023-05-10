@@ -47,20 +47,16 @@ https://www.youtube.com/watch?v=DLzCSq4Ci44
 - Creating sessions.
 
 
-## Demo
-
-Demo for Frontend:
-https://hmsmini.herokuapp.com/
 
 ## Authors
 
-- [@Dasarikarthik](https://github.com/dasarikarthik)
+- [@Dasarikarthik](https://github.com/dasarikarthik) {My Guruvu}
 - [@GowthamReddy](https://github.com/GouthamReddy7)
 - [@Jayasai](https://github.com/sai280100)
 
 
 ## 🚀 About Me
-Hi👋, I'm karthik.
+Hi👋, I'm GouthamReddy.
 Student at Vellore Institute of Technology Vellore.
 
 
@@ -70,5 +66,5 @@ Javascript, HTML, CSS, C++, Java, ML
 
 ## Support
 
-For support, email dasarikarthik559@gmail.com.
+For support, email gowthamr733@gmail.com.
 

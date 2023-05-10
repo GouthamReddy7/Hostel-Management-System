@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=DLzCSq4Ci44
 
 ## Authors
 
-- [@Dasarikarthik](https://github.com/dasarikarthik) {My Guruvu}
+- [@Dasarikarthik](https://github.com/dasarikarthik)
 - [@GowthamReddy](https://github.com/GouthamReddy7)
 - [@Jayasai](https://github.com/sai280100)
 
@@ -61,7 +61,7 @@ Student at Vellore Institute of Technology Vellore.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C++, Java, ML
+Javascript, HTML, CSS, Java, ML
 
 
 ## Support
